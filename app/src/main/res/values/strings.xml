@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Basic photo editing</string>
+    <string-array name="types">
+        <item>"Only blue color"</item>
+        <item>"Only red color"</item>
+        <item>"Only white color"</item>
+        <item>"Only yellow color"</item>
+        <item>"Binarization"</item>
+        <item>"Black and white"</item>
+    </string-array>
+</resources>
